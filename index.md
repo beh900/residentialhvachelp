@@ -10,3 +10,5 @@ Clear, plain-English explanations for common residential HVAC problems.
 ## Gas Furnace Issues
 - [Furnace runs but no heat from vents](furnace-runs-no-heat-from-vents.md)
 
+- [Furnace ignition failure](furnace-ignition-failure.md)
+
